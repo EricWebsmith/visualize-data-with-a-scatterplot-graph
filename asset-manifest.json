@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visualize-data-with-a-scatterplot-graph/static/css/main.6b67565a.css",
+    "main.js": "/visualize-data-with-a-scatterplot-graph/static/js/main.70a389df.js",
+    "static/js/787.fdc97907.chunk.js": "/visualize-data-with-a-scatterplot-graph/static/js/787.fdc97907.chunk.js",
+    "index.html": "/visualize-data-with-a-scatterplot-graph/index.html",
+    "main.6b67565a.css.map": "/visualize-data-with-a-scatterplot-graph/static/css/main.6b67565a.css.map",
+    "main.70a389df.js.map": "/visualize-data-with-a-scatterplot-graph/static/js/main.70a389df.js.map",
+    "787.fdc97907.chunk.js.map": "/visualize-data-with-a-scatterplot-graph/static/js/787.fdc97907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b67565a.css",
+    "static/js/main.70a389df.js"
+  ]
+}
